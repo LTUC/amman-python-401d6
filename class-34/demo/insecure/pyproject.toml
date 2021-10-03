@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "insecure"
+version = "0.1.0"
+description = ""
+authors = ["JB-Tellez <jb.tellez@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^3.1.7"
+django-environ = "^0.4.5"
+whitenoise = "^5.2.0"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+flake8 = "^3.9.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

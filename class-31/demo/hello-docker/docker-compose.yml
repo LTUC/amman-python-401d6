@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+    hola:
+        build: .
+        command: python main.py
