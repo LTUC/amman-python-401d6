@@ -4,12 +4,7 @@ Python makes File Input and Output pleasantly easy.
 
 Today we'll be creating a Madlib game that reads in a template file and writes a file back out with user input injected.
 
-Will also handle exceptions as well as test that they are properly raised.
-
-## Learning Objectives
-
-### Students will be able to
-
+Will also handle exceptions as well as test that they are properly raised
 #### Describe and Define
 
 - How python performs file input/output
@@ -29,4 +24,7 @@ Will also handle exceptions as well as test that they are properly raised.
 
 ## Today's Outline
 
-> Instructor to add. See facilitator guide for details.
+- Code Review - Khaled and Bashar
+- Exceptions
+- File I/O
+
