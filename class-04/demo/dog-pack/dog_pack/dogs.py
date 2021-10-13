@@ -12,7 +12,7 @@ class Dog(ABC):
     def sleep(self):
         return "zzz"
 
-    @abstractclassmethod
+    @classmethod
     def increase_count(cls):
         Dog.count += 1
 

@@ -2,12 +2,12 @@ import pytest
 from dog_pack.dogs import Puggle, Boxer, Dog
 
 
-# @pytest.mark.skip("todo")
+@pytest.mark.skip("todo")
 def test_boxer_create():
     assert Boxer()
 
 
-# @pytest.mark.skip("todo")
+@pytest.mark.skip("todo")
 def test_boxer_no_name():
     pooch = Boxer()
     actual = pooch.name
@@ -135,8 +135,7 @@ def test_dog_is_abstract():
 
 @pytest.fixture(autouse=True)
 def prep():
-    """Reset the Class counts so it's fresh each test run
-    """
+    """Reset the Class counts so it's fresh each test run"""
     Puggle.count = 0
     Boxer.count = 0
     Dog.count = 0
@@ -150,3 +149,14 @@ def marv():
 @pytest.fixture
 def lela():
     return Puggle("Lela")
+
+
+@pytest.fixture
+def addition_stuff():
+    return {"adder": 1, "addend": 2, "sum": 3}
+
+
+def test_add(addition_stuff):
+    expected = addition_stuff["sum"]
+    actual = add(addition_stuff["adder"], addition_stuff["addend"])
+    assert actual == expected

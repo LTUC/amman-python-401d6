@@ -30,13 +30,23 @@
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Guided Research
+- Demo
+
 - Challenge Review
 - Challege Preview
 - Lab Review
 - Lab Preview
-- Guided Research
-- Demo
+
+Jobs
+
+Note Taker & Time Stamper - Hamza
+
++1 Grade
+
+Du'a
+Hamza
+Jehad
 
 ## Links
 
