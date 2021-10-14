@@ -56,9 +56,12 @@ Hamza +3 - [Prep: Deck out Editor,+1 Intro to python,+1 INtro to python]
 Majed - waive late Lab 04
 Jehad - +1 ?? Hanaa
 Faisal - +1 ?? Emad
-Ehab - Waive late attendence penalty 12th
+Ehab - Resubmit Prep Deck out editor - Done
 Haneen +2 - [Waive late attendece 13th, Donate to Yousef J -Emad] 
 Mohammed Al-Hanbali - Donate to Bashar +1 Lab 04
 Khaled - Resubmit ?? Ashjan
-Adham - Resubmit Prep Works
+Adham - Resubmit Prep Work
 Du'a - Resubmit Prep: Career Coaching Status.
+
+Previous
+Du'a - Donate to Tasneem Resubmit Prep Career Coaching Status
