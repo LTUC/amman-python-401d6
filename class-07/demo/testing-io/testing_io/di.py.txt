@@ -1,0 +1,42 @@
+from random import randint
+
+
+def get_student():
+    students = ["Majed", "Ahmad"]
+    return students[randint(0, len(students) - 1)]
+
+
+def get_ta():
+    return "Rania"
+
+
+def greet(get_name=get_student):
+    name = get_name()
+    return f"Hello, {name}"
+
+
+greet()
+
+# *********** TEST *************
+
+
+def mock_name_getter():
+    return "dev"
+
+
+def test_greet():
+    expected = "Hello, dev"
+    actual = greet(get_name=mock_name_getter)
+    assert actual == expected
+
+
+# Dependency Injection
+# Decoupling
+
+
+def greet():
+    name = get_student()
+    return f"Hello, {name}"
+
+
+# The function greet depends / is strongly coupled with the function get_student

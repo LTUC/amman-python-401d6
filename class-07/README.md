@@ -7,10 +7,6 @@ There are (at least) 2 key areas of risk.
 1. The modules created previously must be integrated into a Game class.
 1. We need a way to automate the verification of the game's behavior.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Difference between integration and unit tests.
@@ -30,3 +26,15 @@ There are (at least) 2 key areas of risk.
 - Lab Review
 - Guided Research/Prototyping
 - Lab Prep
+
+# Participants
+- Adham
+- Renad
+- Hamza
+- Odeh
+- Majed
+- EHAB
+- Haneen
+- Mona
+- Bashar
+- Jehad

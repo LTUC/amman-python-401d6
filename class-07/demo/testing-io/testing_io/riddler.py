@@ -11,10 +11,8 @@ class Riddler:
 
         while True:
             print("What is your guess?")
-            guess = input("> ")
-
+            guess = input(f"> ")
             if guess == self.answer:
                 print("You got it!")
                 break
-            else:
-                print("Nope, that's not it.")
+            print("Nope, that's not it.")

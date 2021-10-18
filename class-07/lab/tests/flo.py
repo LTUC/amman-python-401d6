@@ -2,11 +2,13 @@ import builtins
 import difflib
 import sys
 
+
 def diff(game_play_func, path="", sample=""):
     """runs a given game play function and compares output with contents of given simulation
 
     Args:
         game_play_func (function): function that plays game.
+            MUST have key word argument 'roller'
         path (str, optional): File path to a simulation text tile. Defaults to "".
         sample (str, optional): Simulation text to use if no path provided.
             Defaults to "".
@@ -20,6 +22,9 @@ def diff(game_play_func, path="", sample=""):
     expected_lines = _parse_expected_lines(path, sample)
 
     responses = _extract_responses(expected_lines)
+
+    rolls = _extract_rolls(expected_lines)
+
     # inner function to mock print functionality
     def mock_print(*args):
 
@@ -41,6 +46,13 @@ def diff(game_play_func, path="", sample=""):
 
         return response
 
+    # inner function to mock rolling of dice
+    def mock_roller(num):
+        if not rolls:
+            sys.exit(1)
+
+        return rolls.pop(0)
+
     # store the "real" print & input so we can restore them later
     real_print = builtins.print
     real_input = builtins.input
@@ -50,7 +62,7 @@ def diff(game_play_func, path="", sample=""):
     builtins.input = mock_input
 
     try:
-        game_play_func()
+        game_play_func(roller=mock_roller)
     except SystemExit:
         real_print("No problem. System exits are allowed in this app.")
 
@@ -81,6 +93,17 @@ def _extract_responses(lines):
             responses.append(response)
 
     return responses
+
+
+def _extract_rolls(lines):
+    rolls = []
+    for line in lines:
+        # WARNING: dice rolls MUST start with expected characters
+        if line.startswith("*** "):
+            roll = [int(char) for char in line if char.isdigit()]
+            rolls.append(roll)
+
+    return rolls
 
 
 def _find_differences(text, expected_lines):

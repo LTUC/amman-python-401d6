@@ -2,7 +2,20 @@ from random import randint
 
 
 def default_roller():
-    return (randint(1, 6,), randint(1, 6,))
+    return (
+        randint(
+            1,
+            6,
+        ),
+        randint(
+            1,
+            6,
+        ),
+    )
+
+
+def new_roller():
+    return (4, 3)
 
 
 def play_dice(roller=default_roller):
@@ -24,4 +37,3 @@ def play_dice(roller=default_roller):
 
 if __name__ == "__main__":
     play_dice()
-
