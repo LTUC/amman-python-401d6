@@ -31,4 +31,4 @@ The tool of choice for most are Jupyter Notebooks.
 - Odeh
 - Jehad
 - Hamza
-- Mohammad
+- Mohammed Al-Hanbali
