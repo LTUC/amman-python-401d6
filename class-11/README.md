@@ -4,10 +4,6 @@ Python has a vibrant community of Data Science professionals and enthusiasts. Th
 
 The tool of choice for most are Jupyter Notebooks.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Different categories under Data Science umbrella
@@ -19,3 +15,18 @@ The tool of choice for most are Jupyter Notebooks.
 - Jupyter Notebook on development machine
 - Display user generated images in Notebook
 - Add custom functions to notebook
+
+# Participation
+- Murad
+- Du'a
+- Bashar
+- Ehab
+- Faisal
+- Haneen
+- Majed 
+- Adham
+- Suzan
+- Anas
+- Abdullah
+- Odeh
+- Jehad
