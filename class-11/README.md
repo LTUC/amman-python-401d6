@@ -30,3 +30,5 @@ The tool of choice for most are Jupyter Notebooks.
 - Abdullah
 - Odeh
 - Jehad
+- Hamza
+- Mohammad
