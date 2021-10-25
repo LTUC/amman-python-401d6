@@ -5,10 +5,6 @@ After Numpy, the next big player in Data Science field is Pandas.
 Pandas makes it much simpler to organize tabular data and apply statistical analysis to it.
 
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Power of Data Frames
