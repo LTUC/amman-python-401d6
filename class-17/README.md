@@ -4,10 +4,6 @@ We can consume web sites with our eyes, ears and fingers. But how about getting 
 
 If a service exposes an API then you're good to go. But what if they haven't? That's where web scraping comes in.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Why to scrape a web site
@@ -22,4 +18,11 @@ If a service exposes an API then you're good to go. But what if they haven't? Th
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Feedback
+- Top of Mind
+
+## Participants
+
+- Hamza
+- Bashar
+
