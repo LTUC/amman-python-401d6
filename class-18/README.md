@@ -2,10 +2,6 @@
 
 Keeping secrets with Cryptography.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Cryptography
@@ -21,4 +17,5 @@ Keeping secrets with Cryptography.
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+ - Lecture and Demo
+ 
