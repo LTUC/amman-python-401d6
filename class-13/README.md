@@ -4,9 +4,6 @@ Today we're looking at tools for predictive analysis. A key tool for that analys
 
 Don't be scared by the math. By understanding a few fundamental concepts we'll be able to do a lot.
 
-## Learning Objectives
-
-### Students will be able to
 
 #### Describe and Define
 
@@ -20,3 +17,11 @@ Don't be scared by the math. By understanding a few fundamental concepts we'll b
 - Split data into train and test samples
 - Draw conclusions from models
 
+# Participants
+- Bashar
+- Renad
+- Haneen
+- Tasneem
+- Mona
+- Jehad
+- Ehab

@@ -8,9 +8,6 @@ In the old days the the cost of computing power was prohibitive, so it was expen
 
 These days computing power is cheaper. Though cheap is not the same as free.
 
-## Learning Objectives
-
-### Students will be able to
 
 #### Describe and Define
 
@@ -26,4 +23,8 @@ These days computing power is cheaper. Though cheap is not the same as free.
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Feedback
+- Top Of Mind
+  - What is the Exam about? - Whiteboard
+
+

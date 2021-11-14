@@ -4,10 +4,6 @@ A (pretty) picture tells a thousand words.
 
 Today we'll focus on telling the story of our data analysis visually.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Available visualization libraries.
@@ -21,5 +17,11 @@ Today we'll focus on telling the story of our data analysis visually.
 - Choose most effective visualizations.
 
 ## Today's Outline
-
-<!-- To Be Completed By Instructor -->
+- Top of Mind
+  - Value Error in fit method
+  - Difficulty finding data
+  - Low accuracy
+- Midterm Project Examples
+- Whiteboard Challenge - Mohammed AL-Hanbali
+- Lecture & Demo Data Visulisation
+- Lab Preview
