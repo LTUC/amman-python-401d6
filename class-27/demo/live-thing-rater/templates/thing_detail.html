@@ -1,0 +1,11 @@
+{% extends 'theme/base.html' %}
+
+{% block content %}
+<div>
+  <h2>{{thing_object.name}}</h2>
+  <p>Rating: {{thing_object.rating }}</p>
+  <p>Color: {{thing_object.color}}</p>
+  <p>Reviewer: {{thing_object.reviewer}}</p>
+</div>
+
+{% endblock %}

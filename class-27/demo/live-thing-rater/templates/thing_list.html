@@ -1,0 +1,9 @@
+{% extends 'theme/base.html' %}
+
+{% block content %}
+{% for thing in object_list %}
+<h3>
+  <a href="{% url 'thing_detail' thing.pk %}">{{thing.name}}</a>
+</h3>
+{% endfor %}
+{% endblock %}
