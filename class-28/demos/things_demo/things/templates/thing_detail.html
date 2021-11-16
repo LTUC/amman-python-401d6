@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %} {{ thing }} {% endblock %}
+
+{% block content %}
+<h1>{{ thing }} </h1>
+
+<h2>Owned by: {{ thing.user }}</h2>
+<p>{{ thing.description }}</p>
+{% endblock %}

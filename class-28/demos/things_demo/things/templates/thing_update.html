@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %} Update {% endblock %}
+
+{% block content %}
+<h1>Update</h1>
+<form method="post" action="{{ thing.get_absolute_url}}">{% csrf_token %}
+    {{ form.title }}
+    <input type="submit" value="Update">
+</form>
+
+{% endblock %}

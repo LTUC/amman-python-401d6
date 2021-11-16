@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %} Retrieve {% endblock %}
+
+{% block content %}
+<h1>Things list</h1>
+
+<ul>
+{% for thing in things_list %}
+    <li><a href="{{ thing.get_absolute_url }}">{{ thing }}</a></li>
+
+{% endfor %}
+</ul>
+{% endblock %}
