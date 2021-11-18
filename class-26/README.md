@@ -6,10 +6,6 @@ Python has some great tools in this space.
 
 We'll be learning the most popular one, Django.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - What is an "opinionated" framework
@@ -24,6 +20,15 @@ We'll be learning the most popular one, Django.
 - Migrate model changes to database
 - Run tests
 
-## Today's Outline
+Feedback Notes
 
-<!-- To Be Completed By Instructor -->
+- Too many assignments
+- Stress
+  - The Growth Mindset
+  - Time Management
+    - Pomodoro - Tomato Timer
+      - Break after 25 minutes
+        - Check email
+        - Check messages      
+- Prep Work and Documentation for assignments
+  - Reading Instructions
