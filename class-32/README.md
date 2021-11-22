@@ -8,10 +8,6 @@ Postgresql is a great choice. And with the help of Docker using Postgresql at pr
 
 We will also be adding `permissions` to our Django apps so that users are allowed appropriate actions.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Project, View and Model level permissions
@@ -26,4 +22,7 @@ We will also be adding `permissions` to our Django apps so that users are allowe
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Whiteboard Review
+- Feedback 
+- Docker
+- Postgres and Permissions

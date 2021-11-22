@@ -6,10 +6,6 @@ Docker is great way to guard against the dreaded `but it works on my machine!` d
 
 Today we'll work on converting a Django app into a proper API then wrap it up in a Docker container.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Serializers as an API's view of the data
