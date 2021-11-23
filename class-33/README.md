@@ -6,9 +6,6 @@ For that we need `Authentication`. There are lots of ways to authenticate. We wi
 
 We've recently moved to a production-grade database. But how about the server? Today we'll move beyond Django's built in development server to a "real" server - Gunicorn.
 
-## Learning Objectives
-
-### Students will be able to
 
 #### Describe and Define
 
@@ -23,5 +20,22 @@ We've recently moved to a production-grade database. But how about the server? T
 - Modify Django's default authentication classes
 
 ## Today's Outline
+- Top of Mind
+ - Docker tutorials focused on containerization
+- Auth Lecture
+- Auth Demo with DRF
 
-<!-- To Be Completed By Instructor -->
+
+## Today's Participants
+
+- Hamza
+- Jehad
+- Tasneem
+- Bashar
+- Suzan
+- Aseel
+- Du'a
+- Ashraf
+- Adham
+- Anas
+- Yousef
