@@ -59,15 +59,15 @@
 #### Consuming APIs with ReactJS
 
 - Class 36 : DSA - Review
-- Class 37 : React 1
-- Class 38 : React 2
-- Class 39 : React 3
+- Class 37 : React 1 - Create React, ES6, Nextjs, tailwindcss
+- Class 38 : React 2 - Lifting Up State, Material UI and Chakra UI, Styled Components
+- Class 39 : React 3 - Composition vs Inheritance
 - Class 40 : Career Coaching
 
 #### Tying it All Together
 
 - Class 41 : Front End Deployment
-- Class 42 : Pythonisms
-- Class 43 : Ethics
-- Class 44 : Open Source Software
+- Class 42 : Pythonisms - Flux Architecture, Context API - 
+- Class 43 : Ethics - React Native, Expo - 15 in favor
+- Class 44 : Open Source Software - Relational Databases, SQL, Normalization
 - Class 45 : Final Project Kick Off
