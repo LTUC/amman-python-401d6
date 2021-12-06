@@ -26,3 +26,8 @@ We will also be adding `permissions` to our Django apps so that users are allowe
 - Feedback 
 - Docker
 - Postgres and Permissions
+
+Participants
+- Tasneem
+- Ehab
+- Mohammad

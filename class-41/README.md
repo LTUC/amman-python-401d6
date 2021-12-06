@@ -17,4 +17,3 @@ It's time to go live!
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
