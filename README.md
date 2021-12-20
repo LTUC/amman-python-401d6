@@ -67,7 +67,7 @@
 #### Tying it All Together
 
 - Class 41 : Front End Deployment
-- Class 42 : Pythonisms - Flux Architecture, Context API - 
-- Class 43 : Ethics - React Native, Expo - 15 in favor
-- Class 44 : Open Source Software - Relational Databases, SQL, Normalization
+- Class 42 : Pythonisms - Relational Databases, SQL,  Normalization 
+- Class 43 : Ethics - Flux Architecture, Context API - 
+- Class 44 : Open Source Software - React Native, Expo - 15 in favor
 - Class 45 : Final Project Kick Off
